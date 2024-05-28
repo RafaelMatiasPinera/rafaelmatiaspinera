@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**RafaelMatiasPinera/rafaelmatiaspinera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###¿Quién soy?
+Soy Rafael Matías Piñera, un apasionado por el desarrollo de software y la ciencia de datos. Inicialmente, me formé y trabajé como abogado con experiencia en el Poder Judicial de la Nación en Argentina. Sin embargo, mi creciente interés por las nuevas tecnologías me llevó a cambiar de orientación profesional y sumergirme en el mundo de la programación y la ciencia de datos.
 
-Here are some ideas to get you started:
+###¿Qué hago?
+Actualmente, me dedico al desarrollo de software y a proyectos de ciencia de datos. He realizado diversos cursos de programación en Python, C#, APIs, y SQL. Entre mis proyectos se incluyen la implementación de bots y web scraping en Python, así como el desarrollo de un juego propio publicado en la PlayStore utilizando Unity y C#. Mi formación y experiencia me han permitido desarrollar habilidades analíticas y de resolución de problemas, con un enfoque rápido, organizado y orientado al trabajo en equipo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###¿A dónde me dirijo?
+Mi objetivo es seguir creciendo y desarrollándome en el rubro IT, aplicando mis conocimientos y habilidades para contribuir a proyectos innovadores y desafiantes. Busco oportunidades que me permitan seguir aprendiendo y expandiendo mis horizontes en el ámbito de la tecnología, con un enfoque particular en el desarrollo de software y la ciencia de datos.
+
+###¿Qué tecnologías uso?
+Lenguajes de Programación: Python, C#
+Desarrollo de Juegos: Unity
+Bases de Datos: SQL
+APIs: Desarrollo e integración
+Web Scraping: Python
+Herramientas de Ciencia de Datos: Pandas, NumPy, entre otros.
+
+No dudes en contactarme si tienes alguna pregunta o si estás interesado en colaborar en algún proyecto. Puedes ver más sobre mi trabajo en mi GitHub.
