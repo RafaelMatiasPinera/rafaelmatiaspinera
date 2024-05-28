@@ -10,11 +10,11 @@ Actualmente, me dedico al desarrollo de software y a proyectos de ciencia de dat
 Mi objetivo es seguir creciendo y desarrollándome en el rubro IT, aplicando mis conocimientos y habilidades para contribuir a proyectos innovadores y desafiantes. Busco oportunidades que me permitan seguir aprendiendo y expandiendo mis horizontes en el ámbito de la tecnología, con un enfoque particular en el desarrollo de software y la ciencia de datos.  
   
 ### ¿Qué tecnologías uso?  
-Lenguajes de Programación: Python, C#  
-Desarrollo de Juegos: Unity  
-Bases de Datos: SQL  
-APIs: Desarrollo e integración  
-Web Scraping: Python  
-Herramientas de Ciencia de Datos: Pandas, NumPy, entre otros.  
+*Lenguajes de Programación*: Python, C#  
+*Desarrollo de Juegos*: Unity, Pygame
+*Bases de Datos*: SQL
+*APIs: Desarrollo e integración*  
+*Web Scraping*: Python, Selenium  
+H*erramientas de Ciencia de Datos*: Pandas, NumPy,SkiKit Learn, entre otros.  
 
 No dudes en contactarme si tienes alguna pregunta o si estás interesado en colaborar en algún proyecto. Puedes ver más sobre mi trabajo en mi GitHub.
