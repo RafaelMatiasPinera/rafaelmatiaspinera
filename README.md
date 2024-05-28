@@ -14,7 +14,7 @@ Mi objetivo es seguir creciendo y desarrollándome en el rubro IT, aplicando mis
 *Desarrollo de Juegos*: Unity, Pygame 📨.  
 *Bases de Datos*: SQL💾.  
 *APIs: Desarrollo e integración*🌐. 
-*Web Scraping*: Python, Selenium 📅.
+*Web Scraping*: Python, Selenium 📅.  
 *Herramientas de Ciencia de Datos*: Pandas, NumPy,SkiKit Learn, entre otros 🛠.  
 
 No dudes en contactarme📱🤝 si tienes alguna pregunta o si estás interesado en colaborar en algún proyecto.
