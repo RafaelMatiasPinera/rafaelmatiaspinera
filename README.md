@@ -17,4 +17,4 @@ Mi objetivo es seguir creciendo y desarrollándome en el rubro IT, aplicando mis
 *Web Scraping*: Python, Selenium 📅.
 *Herramientas de Ciencia de Datos*: Pandas, NumPy,SkiKit Learn, entre otros 🛠.  
 
-No dudes en contactarme📱🤝 si tienes alguna pregunta o si estás interesado en colaborar en algún proyecto. Puedes ver más sobre mi trabajo en mi GitHub.
+No dudes en contactarme📱🤝 si tienes alguna pregunta o si estás interesado en colaborar en algún proyecto.
