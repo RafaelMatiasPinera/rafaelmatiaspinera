@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola 👋
 
 ### ¿Quién soy?📧
 Soy Rafael Matías Piñera, un apasionado por el desarrollo de software y la ciencia de datos. Inicialmente, me formé y trabajé como abogado con experiencia en el Poder Judicial de la Nación en Argentina. Sin embargo, mi creciente interés por las nuevas tecnologías me llevó a cambiar de orientación profesional y sumergirme en el mundo de la programación y la ciencia de datos.  
